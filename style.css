@@ -1,0 +1,83 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-top: 40px;
+  gap: 10px;
+  width: 90%;
+}
+
+h1 {
+  font-size: larger;
+}
+
+.subtitle {
+  position: absolute;
+  width: 327px;
+  height: 108px;
+}
+
+.button {
+  background-color: #f0852e;
+  border-radius: 40px;
+  border: none;
+  padding: 16px 32px;
+  gap: 16px;
+  transition: 0.4s;
+}
+
+.button:hover {
+  background-color: #974c0e;
+}
+
+.button a {
+  color: white;
+  text-decoration: none;
+}
+
+.button img {
+  background-color: transparent;
+}
+
+.advantages {
+  background-color: antiquewhite;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  width: 90%;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.advantage {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: auto;
+}
+
+.gabriela {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.gabriela p {
+  width: 85%;
+}
+
+.head-doubts {
+  display: flex;
+  gap: 8px;
+}
