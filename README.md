@@ -8,6 +8,7 @@ Projeto de um protótipo de um site simples para uma nutricionista.
 - CSS
 - Bootstrap
 - JavaScript
+- Design Responsivo
 
 ## Deploy
 - https://nutricionista-gabriela-uliana.vercel.app/
